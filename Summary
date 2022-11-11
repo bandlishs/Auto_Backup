@@ -1,0 +1,2 @@
+Taking Automatic Backup of a local system on a specified google drive using a script deployed on azure, for security and
+recovery purposes. Prevents data loss upon system failure, keeping record of logging time as a particular entry.
